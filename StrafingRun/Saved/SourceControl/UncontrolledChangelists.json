@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/n00173464/Desktop/Strafing-Run/StrafingRun/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/n00173464/Desktop/Strafing-Run/StrafingRun/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/n00173464/Desktop/Strafing-Run/StrafingRun/Content/collisions.umap",
+				"C:/Users/n00173464/Desktop/Strafing-Run/StrafingRun/Content/StarterContent/Particles/BP_Shot.uasset"
 			]
 		}
 	]
